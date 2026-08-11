@@ -1,0 +1,6 @@
+{
+  "name": "QuickCart",
+  "description": "10-20 min Hyperlocal Grocery & Food Delivery App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
